@@ -2,10 +2,28 @@
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
 
 # C extensions
 *.so
 
+=======
+*.zip
+*.jpeg
+*.jpg
+*.csv
+*.png
+*.jdsh
+*.txt
+*.exe
+*.bat
+*.xlsx
+*.xls
+*.data
+# C extensions
+*.so
+*.h5
+>>>>>>> f91e7b4627a39dec455a7064e2f5a49873bd1ef9
 # Distribution / packaging
 .Python
 build/
